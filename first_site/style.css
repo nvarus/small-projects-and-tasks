@@ -1,6 +1,15 @@
-body, section, div,h1, h2, h3, h4, h5, h6 {
+body,
+section,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     margin: 0 0 0 0;
 }
+
 .whole_page {
     background-color: rgb(220, 71, 30);
 }
@@ -10,21 +19,25 @@ body, section, div,h1, h2, h3, h4, h5, h6 {
     background-color: blue;
     height: 400px;
     display: flex;
-    
-    
+
+
 }
-.titleInitSection {     /*Заголовок начальной секции*/
+
+.titleInitSection {
+    /*Заголовок начальной секции*/
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: normal;
     font-weight: bolder;
     text-transform: uppercase;
     text-align: center;
 }
-.DivisionInitSection { /*? Разделы начальной секции*/
+
+.DivisionInitSection {
+    /*? Разделы начальной секции*/
     /* background-color: darkgreen; */
     border: 5px solid rgb(244, 15, 233);
     width: 30%;
     height: 80%;
-    justify-content: space-around;
-    
+
+
 }
