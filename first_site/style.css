@@ -22,7 +22,7 @@ body, section, div,h1, h2, h3, h4, h5, h6 {
 }
 .DivisionInitSection { /*? Разделы начальной секции*/
     /* background-color: darkgreen; */
-
+    border: 5px solid rgb(244, 15, 233);
     width: 30%;
     height: 80%;
     justify-content: space-around;
