@@ -5,10 +5,13 @@ body, section, div,h1, h2, h3, h4, h5, h6 {
     background-color: rgb(220, 71, 30);
 }
 
-/*? Начальная секция сайта*/
+/* ? Начальная секция сайта */
 .initial_section {
     background-color: blue;
     height: 400px;
+    display: flex;
+    
+    
 }
 .titleInitSection {     /*Заголовок начальной секции*/
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -16,4 +19,12 @@ body, section, div,h1, h2, h3, h4, h5, h6 {
     font-weight: bolder;
     text-transform: uppercase;
     text-align: center;
+}
+.DivisionInitSection { /*? Разделы начальной секции*/
+    /* background-color: darkgreen; */
+
+    width: 30%;
+    height: 80%;
+    justify-content: space-around;
+    
 }
