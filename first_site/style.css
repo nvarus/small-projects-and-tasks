@@ -1,14 +1,4 @@
-body,
-section,
-div,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    margin: 0 0 0 0;
-}
+body,section,div,h1,h2,h3,h4,h5,h6 {margin: 0 0 0 0;}
 
 .whole_page {
     background-color: rgb(220, 71, 30);
@@ -16,13 +6,11 @@ h6 {
 
 /* ? Начальная секция сайта */
 .initial_section {
-    background-color: blue;
-    height: 400px;
+    background-color: white;
+    border: 3px solid pink;
+    /* height: 100%; */
     display: flex;
-
-
 }
-
 .titleInitSection {
     /*Заголовок начальной секции*/
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -35,9 +23,13 @@ h6 {
 .DivisionInitSection {
     /*? Разделы начальной секции*/
     /* background-color: darkgreen; */
-    border: 5px solid rgb(244, 15, 233);
-    width: 30%;
-    height: 80%;
-
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: antiquewhite;
+    
 }
+.backBox1 {background-color: rgb(196, 229, 105);}
+.backBox2 {background-color: rgb(228, 84, 233);}
+.backBox3 {background-color: rgb(35, 235, 65);}
+.backBox4 {background-color: rgb(245, 77, 77);}
+.backBox5 {background-color: rgb(47, 95, 249);}
