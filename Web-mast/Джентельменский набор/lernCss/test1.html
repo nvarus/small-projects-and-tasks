@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="test1.css">
+    <title>Учебная страница</title>
+</head>
+
+<body>
+    <header class="header" style="background: white url(prog003.jpg) no-repeat">
+        <h2 class="headerTitle">Лучшие книги по<br>программированию </h2>
+
+        <form action="headerForm" method="post" class="form">
+            <fieldset>
+                <input type="text" name="login" id="login" placeholder="Логин"><br>
+                <input type="password" name="passw" id="passw" placeholder="Пароль"><br>
+                <fieldset class="headerButtons">
+                    <input type="button" value="Вход">
+                    <input type="button" value="Регистрация">
+                </fieldset>
+            </fieldset>
+        </form>
+
+    </header>
+    <main>
+        <h2>Основная часть страницы. Поместим сюда какую-то главную информацию</h2>
+        <section class="progLanguage python">
+            <p class="headerLanguage">Python</p>
+            <div class="flexboxLang">
+                <div class="py1 pythonBook">
+                    <p>Блок div1</p>
+                </div>
+                <div class="py2 pythonBook">
+                    <p>Блок div2</p>
+                </div>
+                <div class="py3 pythonBook">
+                    <p>Блок div3</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <footer>
+            <p>Это подвал страницы. Тут должна располагаться информация о создателе сайта и контактная информация</p>
+
+        </footer>
+</body>
+
+</html>

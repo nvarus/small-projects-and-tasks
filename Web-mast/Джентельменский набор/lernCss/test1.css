@@ -1,0 +1,81 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin: 0;padding: 0;border: 0;font-size: 100%;font:inherit;vertical-align:baseline}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+html{height: 100%}
+ol,ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
+table{border-collapse:collapse;border-spacing: 0}
+/*.**************************************************************************************************/
+
+
+input[type="text"]::placeholder {
+    color: royalblue;
+    font-style: italic;
+}
+input[type="password"]::placeholder {
+    color: rgb(234, 69, 28);
+    font-style: italic;
+}
+.header {
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 5px;
+}
+.headerTitle {
+    font-size: 240%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 900;
+    width: 80%;
+    color: rgb(217, 229, 183);
+    text-shadow:  2px 2px 5px black;
+}
+.form {
+    padding: 5px;
+}
+#login {
+    margin: 3px;
+}
+#passw {
+    margin: 5px;
+}
+.headerButtons {
+    text-align: center;
+}
+.progLanguage {
+    border: 2px solid rgb(107, 9, 25);
+    color: antiquewhite;
+    margin: 5px;
+    /* padding: 5px; */
+    box-shadow: 2px 2px 5px black;
+    border-radius: 5px;
+    height: 200px;
+}
+.flexboxLang {
+    display: flex;
+    flex-wrap: wrap;
+}
+.headerLanguage {
+    text-align: center;
+    color: rgb(217, 229, 183);
+    text-shadow:  2px 2px 5px black;}
+.python {
+    background-image: url(python.jpg);
+    background-size: cover;
+
+}
+.pythonBook {
+    margin: 5px;
+    width: 33.33%;
+}
+.py1 {
+    background-color: blue;
+}
+.py2 {
+    background-color: rgb(55, 208, 47);
+}
+.py3 {
+    background-color: rgb(198, 44, 232);
+}
