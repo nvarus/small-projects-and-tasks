@@ -20,6 +20,7 @@ input[type="password"]::placeholder {
     margin: 5px;
     padding: 5px;
     display: flex;
+    justify-content: space-between;
     box-shadow: 2px 2px 5px black;
     border-radius: 5px;
 }
@@ -45,17 +46,13 @@ input[type="password"]::placeholder {
     text-align: center;
 }
 .progLanguage {
-    border: 2px solid rgb(107, 9, 25);
-    color: antiquewhite;
-    margin: 5px;
-    /* padding: 5px; */
+    /* margin: 5px; */
     box-shadow: 2px 2px 5px black;
-    border-radius: 5px;
-    height: 200px;
 }
 .flexboxLang {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 .headerLanguage {
     text-align: center;
@@ -66,16 +63,52 @@ input[type="password"]::placeholder {
     background-size: cover;
 
 }
-.pythonBook {
+.Book {
     margin: 5px;
-    width: 33.33%;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 5px;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .py1 {
-    background-color: blue;
+    background-color: white;
 }
 .py2 {
-    background-color: rgb(55, 208, 47);
+    background-color: white;
 }
 .py3 {
     background-color: rgb(198, 44, 232);
+}
+.py4 {
+    background-color: rgb(224, 243, 25);
+}
+.imgBook {
+    height: 300px;
+        /* margin: 10px; */
+}
+.writerBook {
+    text-align: center;
+    margin: 5px;
+    font-size: 18pt;
+    font-weight: 700;
+
+}
+.titleBook {
+    text-align: center;
+    margin: 5px;
+    font-size:15pt;
+    font-weight: 700;
+}   
+.descriptionBook {
+    margin: 0 15px 5px 15px;
+    font-size:10pt;
+}
+.horizontal {
+    height: 300px;
+    width: 500px;
+    display: table-cell;
+    text-align: center;
+}
+.btnDownload {
+    margin: 5px;
 }
