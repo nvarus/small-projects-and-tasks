@@ -1,3 +1,5 @@
-a, b = int(input("введите число №1: ")), int(input("введите число №2: "))
+# Написать функцию, которая принимает два числа
+# и возращает результат их умножения
 
-print(a, b)
+first_number, second_number = int(input('Число 1: ')), int(input('Число 2: '))
+print(first_number * second_number)

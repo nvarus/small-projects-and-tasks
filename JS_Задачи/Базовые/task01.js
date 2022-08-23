@@ -1,15 +1,12 @@
 // Написать функцию, которая принимает два числа
 // и возращает результат их умножения
-const main = () => {
-    const FIRST_NUM = 10;
-    const SECOND_NUM = 20;
-    multiplication(FIRST_NUM, SECOND_NUM);
+let inputBox1 = document.querySelector('.inputBox1');
+let inputBox2 = document.getElementById('secondNumber')
+let button = document.querySelector('.button');
+let outResult = document.getElementById('outResult')
+
+const click1 = () => {
+    outResult.textContent = outResult.textContent + "   " + (parseInt(inputBox1.value) * parseInt(inputBox2.value))
 }
 
-const multiplication = (FIRST_NUM, SECOND_NUM) => {
-    console.log(FIRST_NUM + SECOND_NUM);
-}
-
-main()
-
-
+button.addEventListener('click', click1);

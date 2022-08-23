@@ -6,18 +6,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>task01</title>
-    <script src="task01.js"></script>
+
     <link rel="stylesheet" href="task01.css">
 </head>
 
 <body>
-    <div class="conteiner">
+    <form class="conteiner">
         <p class="title">Написать функцию, которая принимает два числа и возращает результат их умножения</p>
-        <input type="text" id="firstNumber" class="inputBox1" placeholder="Введите первое число">
-        <input type="text" id="secondNumber" class="inputBox2" placeholder="Введите второе число">
-        <button class="enterButton Buttons">Ввод</button>
-        <div class="outResult">Результат:</div>
-    </div>
+
+        <input type="text" id="firstNumber" class="inputBox1" placeholder="Введите первое число" value="0">
+
+        <input type="text" id="secondNumber" class="inputBox2" placeholder="Введите второе число" value="0">
+
+        <input type="button" value="Ввод" id="ent_button" class="button">
+
+        <div id="outResult" class="outResult">Результат:</div>
+    </form>
+    <script src="task01.js"></script>
+    <details open>
+        <summary>Развернуть или свернуть</summary>
+        <p>Скрытый текст</p>
+    </details>
+
 </body>
 
 </html>
