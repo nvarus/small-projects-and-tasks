@@ -6,28 +6,70 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>task01</title>
-
+    <script src="task01.js" defer></script>
     <link rel="stylesheet" href="task01.css">
 </head>
 
 <body>
+
     <form class="conteiner">
-        <p class="title">Написать функцию, которая принимает два числа и возращает результат их умножения</p>
+        <p class="extraTitle">ЗАДАЧА № 1</p>
+        <p class="title">
+            Написать функцию, которая принимает два числа и возращает результат их умножения</p>
 
-        <input type="text" id="firstNumber" class="inputBox1" placeholder="Введите первое число" value="0">
+        <input type="text" id="task01_inputBox1" class="inputBox" placeholder="Введите первое число" value="">
 
-        <input type="text" id="secondNumber" class="inputBox2" placeholder="Введите второе число" value="0">
+        <input type="text" id="task01_inputBox2" class="inputBox" placeholder="Введите второе число" value="">
 
-        <input type="button" value="Ввод" id="ent_button" class="button">
+        <input type="button" value="Ввод" id="task01_button1" class="button">
 
-        <div id="outResult" class="outResult">Результат:</div>
+        <div id="task01_outResult1" class="outResult">Результат:</div>
     </form>
-    <script src="task01.js"></script>
-    <details open>
-        <summary>Развернуть или свернуть</summary>
-        <p>Скрытый текст</p>
-    </details>
 
+    <form class="conteiner">
+        <p class="extraTitle">ЗАДАЧА № 2</p>
+        <p class="title">
+            Написать функцию, которой передаем, имя, фамилия и возраст, и получаем строку "Привет Иван
+            Петров с возрастом 17 лет"</p>
+
+        <input type="text" id="task02_inputBox1" class="inputBox" placeholder="Введите имя" value="">
+
+        <input type="text" id="task02_inputBox2" class="inputBox" placeholder="Введите фамилию" value="">
+
+        <input type="text" id="task02_inputBox3" class="inputBox" placeholder="Введите возраст" value="">
+
+        <input type="button" value="Ввод" id="task02_button1" class="button">
+
+        <div id="task02_outResult1" class="outResult">Результат:</div>
+    </form>
+
+
+    <form class="conteiner">
+        <p class="extraTitle">ЗАДАЧА № 3</p>
+        <p class="title">
+            Написать функцию, которая принимает пол человека ('M','F') в виде строки, результат функции возвращает
+            строку "Ваш пол мужской" (или женский) или же "Ваш пол не опеределен"</p>
+
+        <input type="text" id="task03_inputBox1" class="inputBox" placeholder="Введите ваш пол: M или F" value="">
+
+        <input type="button" value="Ввод" id="task03_button1" class="button">
+
+        <div id="task03_outResult1" class="outResult">Результат:</div>
+    </form>
+
+    <form class="conteiner">
+        <p class="extraTitle">ЗАДАЧА № 4</p>
+        <p class="title">
+            Сделайте функцию, которая принимает параметром число от 1 до 7, а возвращает день недели на русском языке.
+        </p>
+
+        <input type="text" id="task04_inputBox1" class="inputBox" placeholder="Введите число от 1 до 7" value="">
+
+        <input type="button" value="Ввод" id="task04_button1" class="button">
+
+        <div id="task04_outResult1" class="outResult">Результат:</div>
+
+    </form>
 </body>
 
 </html>
