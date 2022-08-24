@@ -8,30 +8,31 @@
 *******************************************************************************************/
 
 const ENTERING_TEXT1 = "the-stealth-warrior";
-const ENTERING_TEXT2 = "The_Stealth_Warriora";
+const ENTERING_TEXT2 = "_эта_функция_для__умножения-чисел";
 
-function toCamelCase(text) {
+function toCamelCase(str) {
 
     let newText = '';
     // флаг, означающий что на следующей итерации нужно изменить регистр
     let toUpper = false;
 
-    for (i = 0; i < text.length; i++) {
-        if (text[i] != "_" && text[i] != "-") {
+    for (i = 0; i < str.length; i++) {
+        if (str[i] != "_" && str[i] != "-") {
             // если найдена буква, проверяем поднят ли флаг toUpper
             if (toUpper) {
-                newText += text[i].toUpperCase(); // если true, меняем регист
+                newText += str[i].toUpperCase(); // если true, меняем регист
                 toUpper = false;
             } else {
-                newText += text[i];         // иначе просто добавляем букву
+                newText += str[i];         // иначе просто добавляем букву
             }
 
 
         } else { toUpper = true } // если обнаружены _ или -
     }
 
-    console.log(newText);
+    return newText;
 }
 
-toCamelCase(ENTERING_TEXT1);
-toCamelCase(ENTERING_TEXT2);
+console.log(toCamelCase(ENTERING_TEXT1));
+console.log(toCamelCase(ENTERING_TEXT2));
+
