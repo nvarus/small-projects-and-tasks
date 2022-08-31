@@ -1,0 +1,67 @@
+html
+    display: flex
+    flex-direction: row
+    justify-content: space-around
+
+    body
+        margin: 0
+        padding: 0
+        background-color: gray
+        background-image: url(img/pict002.jpg)
+        background-size: cover
+        .header
+            border: 2px solid red
+            display: flex
+            justify-content: space-evenly
+            .header__head-title
+                margin: 5px
+                font-family: Verdana, Geneva, Tahoma, sans-serif
+                font-size: 200%
+                text-align: center
+
+            .header__head-Description
+                text-align: center
+                margin: 5px
+
+            .header__head-menu
+                margin: 4px
+
+                .header__head-ref
+                    font-size: small
+                    background-color: rgb(239, 157, 70)
+                    padding: 2px 4px 2px 4px
+                    margin: 4px
+                    box-shadow: 3px 3px 3px black
+
+            .header__logon
+                padding: 3px
+                display: flex
+                flex-wrap: wrap
+                flex-direction: column
+                justify-content: space-evenly
+                align-items: center
+
+main
+    border: 2px solid red
+    display: flex
+    justify-content: space-evenly
+    flex-direction: row
+    margin: 3px 0
+
+    .main__coluumns
+        margin: 3px
+
+    .main__leftColumn
+        width: 10%
+        background-color: blue
+
+    .main__centerColumn
+        width: calc(80% - 12px)
+        background-color: rgb(167, 95, 18)
+
+    .main__rightColumn
+        width: 10%
+        background-color: rgb(161, 22, 152)
+
+footer
+    border: 2px solid red

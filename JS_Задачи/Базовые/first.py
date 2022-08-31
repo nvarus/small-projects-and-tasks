@@ -1,5 +1,9 @@
 # Написать функцию, которая принимает два числа
 # и возращает результат их умножения
 
-first_number, second_number = int(input('Число 1: ')), int(input('Число 2: '))
-print(first_number * second_number)
+NUMBER = 10
+
+print(NUMBER)
+
+if NUMBER == 10:
+    print("Ура")
