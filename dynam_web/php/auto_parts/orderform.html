@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <form action="processorder.php" method="post" class="orderform">
+        <table class="ordertable">
+            <tr class="tr-title">
+                <td class="item">Товар</td>
+                <td class="quantity">Кол-во</td>
+            </tr>
+            <tr>
+                <td>Шины</td>
+                <td><input type="text" name="tireqty" class="input-text" size="3" maxlength="3"></td>
+            </tr>
+            <tr>
+                <td>Масло</td>
+                <td><input type="text" name="oilqty" class="input-text" size="3" maxlength="3"></td>
+            </tr>
+            <tr>
+                <td>Свечи зажигания</td>
+                <td><input type="text" name="sparkqty" class="input-text" size="3" maxlength="3"></td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;"><input type="submit" value="Отправить заказ"
+                        class="input-button"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(73, 69, 68);
+  display: flex;
+  justify-content: center;
+}
+body .orderform .tr-title {
+  background: #a19999;
+}
+body .orderform .tr-title .item {
+  width: 150px;
+  text-align: center;
+  
+}
+body .orderform .tr-title .quantity {
+  width: 15px;
+  text-align: center;
+}
+body .orderform .ordertable {
+  border: 0px;
+  border: 2px solid rgb(32, 28, 28);
+  padding: 3px;
+}
+
+.input-button {
+    margin-top: 10px;
+    
+}
+
+.orderform {
+    display: flex;
+    justify-items: center;
+}
