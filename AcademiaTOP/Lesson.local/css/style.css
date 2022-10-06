@@ -1,7 +1,5 @@
-a[type="video/mp4"] {
-    background: url(img/youtube_logo_icon_188425.png) no-repeat 0 2px; /* Фоновый рисунок */
-    padding-left: 20px; /* Отступ слева */
-   }
-
-
-
+.block {
+	border: 1px solid red;
+	padding: 5px;
+	width: 500px;
+}
