@@ -12,7 +12,7 @@
 	max-width: 200px;
 	min-height: 100px;
 	display: inline-block;
-
+    align-self: ;
 	overflow-x: scroll;
 	padding: 5px 10px 25px;
 }
