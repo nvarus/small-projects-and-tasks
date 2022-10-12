@@ -3,39 +3,40 @@ html {
   flex-direction: row;
   justify-content: space-around;
 }
-html body {
+
+body {
   margin: 0;
   padding: 0;
   background-color: gray;
   background-image: url(img/pict002.jpg);
   background-size: cover;
 }
-html body .header {
+body .header {
   border: 2px solid red;
   display: flex;
   justify-content: space-evenly;
 }
-html body .header .header__head-title {
+body .header .header__head-title {
   margin: 5px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 200%;
   text-align: center;
 }
-html body .header .header__head-Description {
+body .header .header__head-Description {
   text-align: center;
   margin: 5px;
 }
-html body .header .header__head-menu {
+body .header .header__head-menu {
   margin: 4px;
 }
-html body .header .header__head-menu .header__head-ref {
+body .header .header__head-menu .header__head-ref {
   font-size: small;
   background-color: rgb(239, 157, 70);
   padding: 2px 4px 2px 4px;
   margin: 4px;
   box-shadow: 3px 3px 3px black;
 }
-html body .header .header__logon {
+body .header .header__logon {
   padding: 3px;
   display: flex;
   flex-wrap: wrap;
@@ -69,4 +70,4 @@ main .main__rightColumn {
 
 footer {
   border: 2px solid red;
-}
+}/*# sourceMappingURL=style.css.map */ sourceMappingURL=style.css.map */

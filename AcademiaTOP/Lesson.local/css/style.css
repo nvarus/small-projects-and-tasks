@@ -1,24 +1,25 @@
 * {
-	padding: 0;
-	margin: 0;
+	/*padding: 0;
+	margin: 0;*/
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-a,
-ul,
-li,
-div,
-span {
-	font-size: 100%;
-	font-weight: normal;
-	color: rgb(15, 26, 128);
-}
+
+
+
 .container {
-	max-width: 1000px;
-	margin: 0 auto;
+	max-width: 800px;
+	margin: 0 auto
+}
+
+.red-text {
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+.citate {
+	font-style: italic;
+	width: 260px;
+	font-weight: 30;
+	font
 }
