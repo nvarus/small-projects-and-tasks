@@ -11,21 +11,15 @@
  * Числа в круглых скобках показаны только для того, чтобы вы могли видеть, 
  * какие числа учитываются в каждом конкретном случае.
  **********************************************************************************/
-
 const main = () => {
 
 	console.log(getDivisorsCnt(3));
-
-
 }
 
-
-
-function getDivisorsCnt(n) {
+const getDivisorsCnt = (n) => {
 	let numbersOfDiv = 0;
 	for (let i = 1; i <= n; i++) if (n % i == 0) numbersOfDiv++;
 	return numbersOfDiv;
 }
-
 
 main();
