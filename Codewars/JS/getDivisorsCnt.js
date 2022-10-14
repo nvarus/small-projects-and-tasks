@@ -12,6 +12,20 @@
  * какие числа учитываются в каждом конкретном случае.
  **********************************************************************************/
 
-function getDivisorsCnt(n) {
-	// код
+const main = () => {
+
+	console.log(getDivisorsCnt(3));
+
+
 }
+
+
+
+function getDivisorsCnt(n) {
+	let numbersOfDiv = 0;
+	for (let i = 1; i <= n; i++) if (n % i == 0) numbersOfDiv++;
+	return numbersOfDiv;
+}
+
+
+main();
