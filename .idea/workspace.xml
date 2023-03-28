@@ -1,15 +1,312 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a8c816f-79e6-4d3e-99e5-f8a39abe3dd0" name="Changes" comment="" />
+    <list default="true" id="1a8c816f-79e6-4d3e-99e5-f8a39abe3dd0" name="Changes" comment="clear">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/Lesson.local/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/Lesson.local/img/whatsapp_logo_icon_229310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/Lesson.local/img/youtube_logo_icon_188425.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/Lesson.local/img/youtube_logo_icon_229295.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/Lesson.local/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/Lesson.local/type.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/dz/dz-lesson1-alexey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/dz/dz-lesson1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/dz/dz-lesson2 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/dz/dz-lesson2-alexey.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/dz/dz-lesson2-alexey.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/dz/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/dz/index.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/lesson3.local/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/lesson3.local/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/lesson3.local/img/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/lesson3.local/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/lesson3.local/smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/lesson3.local/Äß¡«óδ-html.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/Блочные и строчные теги/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/Блочные и строчные теги/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/начальный сниппет/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/начальный сниппет/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcademiaTOP/начальный сниппет/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars/JS/Convert_string_to_camel_case.js" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars/js/Convert_string_to_camel_case.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars/JS/FriendorFoe.js" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars/js/FriendorFoe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars/JS/HighestScoringWord.js" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars/js/HighestScoringWord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars/JS/IsThisATriangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars/js/IsThisATriangle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars/JS/SquareEveryDigit.js" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars/js/SquareEveryDigit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars/JS/getDivisorsCnt.js" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars/js/getDivisorsCnt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars/JS/sumOfNaturalNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars/js/sumOfNaturalNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars/JS/terr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars/js/terr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/LowerCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Алгоритмы/Linear_search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Алгоритмы/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Базовые/111/style/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Базовые/first.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Базовые/task01.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Базовые/task01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Базовые/task01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Базовые/task02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Базовые/task03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Базовые/task07.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Массивы/task01-forOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Массивы/task01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Массивы/task03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Задачи/Массивы/task04.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/first_JS_project.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/20b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/6b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/9-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/9-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/9-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/9b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/_foto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/add_to_cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/arrows-ffffff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/b_drop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/banner_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/banner_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/bullet_1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/bullet_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/button_remove_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/category_100x100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/contact_form_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dropdown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/banner_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/banner_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/banner_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/banner_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/pic_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/slide_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/slide_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/dummy/slide_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/fb_like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/af.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/al.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/am.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/at.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/br.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ci.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/cl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/cn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/co.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/cz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/dk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/eg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/es.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/fi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/fr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/gb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/hr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/hu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/id.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/il.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/jm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/jp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/lt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/md.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/mk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/mx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/nl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/pe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/pk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/pl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/pt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/py.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/rs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/sa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/se.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/sk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/sl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/th.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/tr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/ua.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/flags/za.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/foto.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_cart_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_cart_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_cart_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_contacts_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_facebook_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_fax_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_mail_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_mobile_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_phone_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_save_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_skype_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_star_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_star_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_star_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_star_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_star_gray_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_star_gray_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_star_gray_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_star_gray_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/i_twitter_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icon_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icons/icon-facebook-hover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icons/icon-facebook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icons/icon-googleplus-hover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icons/icon-googleplus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icons/icon-pinterest-hover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icons/icon-pinterest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icons/icon-twitter-hover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/icons/icon-twitter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/in-the-country.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/info_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/intro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/intro_controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/intro_controls_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/intro_product.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/intro_texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/letter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/main.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/menu_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/mobile-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/mobile-collapse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/mobile-expand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/mobile-menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/2checkout_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/american_express_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/cirrus_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/delta_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/direct_debit_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/discover_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/ebay_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/google_checkout_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/mastercard_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/moneybookers_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/paypal_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/sagepay_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/solo_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/switch_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/visa_electron_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/visa_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/payments/western_union_straight_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_rounded/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_rounded/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_rounded/contentPattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_rounded/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_rounded/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_rounded/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_square/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_square/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_square/contentPattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_square/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_square/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/dark_square/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/facebook/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/facebook/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/facebook/contentPatternBottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/facebook/contentPatternLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/facebook/contentPatternRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/facebook/contentPatternTop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/facebook/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/facebook/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/facebook/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_rounded/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_rounded/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_rounded/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_rounded/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_rounded/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_square/btnNext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_square/btnPrevious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_square/default_thumbnail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_square/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/prettyPhoto/light_square/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/price_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/price_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/price_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/price_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/product_140x140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/product_180x180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/product_300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/product_38x38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/quotes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/s1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/s2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/s3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/s4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/s5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/s6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/s7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/s8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/s9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/shop_info.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/shoppica_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/shoppica_logo_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/tag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/texture_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/texture_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/texture_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/view_mode.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/~intro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/images/~intro_texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSна_примерах/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript.Bogdan/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript.Bogdan/metods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript.Bogdan/object.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.2" />
   <component name="ProjectId" id="2FymDJDrbXuDYcOBMeYRcC5z0CZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,7 +316,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/nvaru/programming/creating-dynamic-websites"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/php7/php.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -30,8 +335,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665472577114</updated>
+      <workItem from="1680030709556" duration="688000" />
     </task>
+    <task id="LOCAL-00001" summary="clear">
+      <created>1680030932079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680030932079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -43,5 +360,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="clear" />
   </component>
 </project>
